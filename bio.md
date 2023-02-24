@@ -6,5 +6,5 @@ I am trying to learn about `git`
 
 ## :)
 
-Hello Wolrd!
+Hello Wolrd! What's going on?
 
